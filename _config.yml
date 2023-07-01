@@ -21,16 +21,16 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: haha1903
+author: changzhihang
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://haha1903.github.io'
+url: 'https://czh.today'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/haha1903/haha1903.github.io/edit/gh-pages
+improve_content: https://github.com/changzhihang/changzhihang.github.io/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
