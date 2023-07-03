@@ -1,3 +1,4 @@
+@use 'sass:math';
 // Foundation by ZURB
 // foundation.zurb.com
 // Licensed under MIT Open Source
@@ -149,7 +150,7 @@ $base-line-height: 1.5 !default;
     }
     @else {
       top: 50%;
-      margin-top: -($width/2);
+      margin-top: -(math.div($width, 2));
       #{$opposite-direction}: $topbar-link-padding;
     }
 
