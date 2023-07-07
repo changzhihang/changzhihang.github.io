@@ -18,11 +18,9 @@ tags:
 #
 header: no
 image:
-    title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
-    caption_url: https://blaz.photography/
+    title: hard-pill-to-swallow-title.png
+    thumb: hard-pill-to-swallow-thumb.jpeg
+    homepage: hard-pill-to-swallow-title.png
 mediaplayer: true
 ---
 There's a long road in front of you  
@@ -83,7 +81,6 @@ And that's a hard pill to swallow
 但坚持毕竟很难  
 hard pill to swallow  
 这是一剂苦药啊  
-这是一剂苦药啊  
 hard pill to swallow  
 这是一剂苦药啊  
 hard pill to swallow  
@@ -97,3 +94,25 @@ And your father made it harder with the soul that he sold
 You know where they both went and you're ready to go  
 你知道他们身在何方，决定出发寻找  
 what happened how did everything turn so cold  
+we can talk about it 'till I'm turning blue in the face
+I can laugh about it joke about it never the same
+I can keep pretending it don't cause any pain
+It's a never ending cycle that just can't be tamed
+early in my life I was put to the test
+I had to make some choices or forget about the rest
+And when I speak this fire you get nothing but the best
+Let me tell you something that you'd better not forget
+There's a long road in front of you
+There's a hard life behind you
+There's a war been waged inside you
+You've got big footsteps to follow
+You've got a soul that's barely hollow
+And that's a hard pill to swallow
+hard pill to swallow
+hard pill to swallow
+hard pill to swallow
+hard pill to swallow
+hard pill to swallow
+hard pill to swallow
+hard pill to swallow
+hard pill to swallow
