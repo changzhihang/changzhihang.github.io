@@ -1,27 +1,20 @@
 ---
 layout: page
-#
-# Content
-#
+sidebar: right
 subheadline: "A Minecraft Song of Blacklite District"
-title: "Hard Pill to Swallow"
-teaser: "Translated by a Minecraft lover from China"
-categories:
-  - music
-  - minecraft
+title:  "Hard Pill to Swallow"
+teaser: "Translated by Zhihang"
+breadcrumb: true
 tags:
-  - audio player
-  - video player
-  - streaming music
-#
-# Styling
-#
-header: no
+    - music
+    - minecraft
+categories:
+    - music
+    - minecraft
 image:
-    title: hard-pill-to-swallow-title.png
     thumb: hard-pill-to-swallow-thumb.jpeg
+    title: hard-pill-to-swallow-title.png
     homepage: hard-pill-to-swallow-title.png
-mediaplayer: true
 ---
 There's a long road in front of you  
 漫漫长路在你眼前  
