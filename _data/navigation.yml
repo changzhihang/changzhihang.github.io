@@ -74,6 +74,10 @@
   url: "/search/"
   side: right
 
+- title: "Disclaimer"
+  url: "/disclaimer/"
+  side: right
+
 # - title: "Contact"
 #   url: "/contact/"
 #   side: right

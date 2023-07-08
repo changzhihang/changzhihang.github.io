@@ -86,9 +86,13 @@ And your father made it harder with the soul that he sold
 你父亲出卖了灵魂，情景又急转直下  
 You know where they both went and you're ready to go  
 你知道他们身在何方，决定出发寻找  
-what happened how did everything turn so cold  
+
+what happened how did everything turn so cold
+到底发生了什么使世界变得如此冷漠
 we can talk about it 'till I'm turning blue in the face
+我们可以交流，但我会很快变脸
 I can laugh about it joke about it never the same
+
 I can keep pretending it don't cause any pain
 It's a never ending cycle that just can't be tamed
 early in my life I was put to the test
