@@ -1,14 +1,16 @@
 ---
 layout: page
 sidebar: right
-subheadline: "A Great Minecraft Novel of Matt Forbeck"
-title:  "引言"
+subheadline: "Minecraft Dungeons: the rise of the Arch-Illager"
+title:  "引言 PROLOGUE"
 teaser: "Translated by Zhihang"
 breadcrumb: true
 categories:
-    - archie
+    - the-arch-illager
+    - minecraft
 tags:
-    - archie
+    - the-arch-illager
+    - minecraft
 image:
     thumb: hard-pill-to-swallow-thumb.jpeg
     title: hard-pill-to-swallow-title.png
