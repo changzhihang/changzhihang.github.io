@@ -12,9 +12,9 @@ tags:
     - the-arch-illager
     - minecraft
 image:
-    thumb: hard-pill-to-swallow-thumb.jpeg
-    title: hard-pill-to-swallow-title.png
-    homepage: hard-pill-to-swallow-title.png
+    thumb: the-arch-illager-thumb.jpg
+    title: the-arch-illager-title.jpg
+    homepage: the-arch-illager-home.jpg
 ---
 “你不能跟他们说这是我的错。”阿奇说，“你不能！”
 

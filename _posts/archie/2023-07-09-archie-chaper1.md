@@ -12,9 +12,9 @@ tags:
     - the-arch-illager
     - minecraft
 image:
-    thumb: hard-pill-to-swallow-thumb.jpeg
-    title: hard-pill-to-swallow-title.png
-    homepage: hard-pill-to-swallow-title.png
+    thumb: the-arch-illager-thumb.jpg
+    title: the-arch-illager-title.jpg
+    homepage: the-arch-illager-home.jpg
 ---
 阿奇实在忍无可忍了。那个全歼巡逻队的所谓“英雄”已经走了，把阿奇留在战场的废墟当中。除了沮丧和愤怒地叹气，他什么也做不了。
 

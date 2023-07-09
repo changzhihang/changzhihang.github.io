@@ -12,9 +12,9 @@ tags:
     - the-arch-illager
     - minecraft
 image:
-    thumb: hard-pill-to-swallow-thumb.jpeg
-    title: hard-pill-to-swallow-title.png
-    homepage: hard-pill-to-swallow-title.png
+    thumb: the-arch-illager-thumb.jpg
+    title: the-arch-illager-title.jpg
+    homepage: the-arch-illager-home.jpg
 ---
 卡尔虽然不知道为什么亡灵大军决定去攻击盘踞在村庄外灾厄村民的巡逻队，但他也不会怀疑他马上要迎来好运。他这一周都渴望着有场战斗让他痛快痛快。终于，在这个与以往都不同的阴雨天，卡尔有点事可干了。
 
