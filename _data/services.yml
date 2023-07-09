@@ -1,8 +1,8 @@
 - menu_name: "Services"
 
-- name: "Contact"
-  url: "/who-am-i/"
-  title: "Contact"
+# - name: "Contact"
+  # url: "/who-am-i/"
+  # title: "Contact"
 
 - name: "RSS"
   url: "/feed.xml"

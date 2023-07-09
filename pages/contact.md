@@ -1,14 +1,9 @@
 ---
 layout              : page
 title               : "Contact"
-subheadline         : "Contact Me"
-teaser              : "Your comments would greatly encourage and motivate me!"
+meta_title          : "Contact and use our contact form"
+subheadline         : "Contact Form"
+teaser              : "Get in touch with me? Use the contact form."
 permalink           : "/contact/"
 ---
-You can contact me on:  
-
-[My e-mail](mailto:ysfj.maths.2010@gmail.com)  
-
-[My GitHub](https://github.com/changzhihang/changzhihang.github.io)  
-
-Thank you very much!
+If you need a fabulous contact form for your website, I suggest you use the free version of [Wufoo](http://www.wufoo.com/)

@@ -74,9 +74,9 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
+# - title: "Contact"
+#   url: "/contact/"
+#   side: right
 
 - title: "Disclaimer"
   url: "/disclaimer/"
