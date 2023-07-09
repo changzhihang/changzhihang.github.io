@@ -15,8 +15,9 @@ widget1:
 widget2:
   title: "Who am I"
   url: '/who-am-i/'
+  image: who-am-i-image.jpg
   text: "I'm a Minecraft player and enthusiast, also a translator from China specializing in Minecraft novels and books! Do you want to take a journey to Minecraft with me?"
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+#  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
   title: "My GitHub"
   url: 'https://github.com/changzhihang/changzhihang.github.io'
