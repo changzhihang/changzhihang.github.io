@@ -86,30 +86,49 @@ And your father made it harder with the soul that he sold
 你父亲出卖了灵魂，情景又急转直下  
 You know where they both went and you're ready to go  
 你知道他们身在何方，决定出发寻找  
-
-what happened how did everything turn so cold
-到底发生了什么使世界变得如此冷漠
-we can talk about it 'till I'm turning blue in the face
-我们可以交流，但我会很快变脸
-I can laugh about it joke about it never the same
-
-I can keep pretending it don't cause any pain
-It's a never ending cycle that just can't be tamed
-early in my life I was put to the test
-I had to make some choices or forget about the rest
-And when I speak this fire you get nothing but the best
-Let me tell you something that you'd better not forget
-There's a long road in front of you
-There's a hard life behind you
-There's a war been waged inside you
-You've got big footsteps to follow
-You've got a soul that's barely hollow
-And that's a hard pill to swallow
-hard pill to swallow
-hard pill to swallow
-hard pill to swallow
-hard pill to swallow
-hard pill to swallow
-hard pill to swallow
-hard pill to swallow
-hard pill to swallow
+what happened how did everything turn so cold  
+到底发生了什么使世界如此冷酷  
+we can talk about it 'till I'm turning blue in the face  
+我们可以谈论它，直到我难以掩盖悲伤  
+I can laugh about it joke about it never the same  
+我们可以笑着说它，但真相只会在我心中  
+I can keep pretending it don't cause any pain  
+我甚至可以装作它不值一提  
+It's a never ending cycle that just can't be tamed  
+但这是一个恶性循环啊  
+early in my life I was put to the test  
+早年时我经历了考验早年时期我经历了一次考验  
+I had to make some choices or forget about the rest  
+我需要做出抉择并忘记一切恩怨  
+And when I speak this fire you get nothing but the best  
+当我说出这些真相就是你的崛起之时  
+Let me tell you something that you'd better not forget  
+我告诉你的事情你可千万不要忘记  
+There's a long road in front of you  
+漫漫长路在你眼前  
+There's a hard life behind you  
+重重困难在你身后  
+There's a war been waged inside you  
+心中已升起波澜  
+You've got big footsteps to follow  
+心中怀揣梦想  
+You've got a soul that's barely hollow  
+灵魂并不空虚  
+And that's a hard pill to swallow  
+但坚持毕竟很困难  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
+hard pill to swallow  
+这是一剂苦药啊  
