@@ -13,4 +13,4 @@ I am a Minecraft player and enthusiast, as well as a translator from China speci
 
 If you appreciate my translations or have any feedback on them, please feel free to leave a comment on my blog. Thank you very much!
 
-[Contact me](mailto:ysfj.maths.2010@gmail.com)
+[Contact me](mailto:brianchang@gmail.com)
