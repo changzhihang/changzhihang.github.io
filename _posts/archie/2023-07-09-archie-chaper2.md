@@ -4,7 +4,7 @@ sidebar: right
 subheadline: "Minecraft Dungeons: the rise of the Arch-Illager"
 title:  "第二章 CHAPTER TWO"
 teaser: "Translated by Zhihang"
-breadcrumb: true
+breadcrumb: false
 categories:
     - the-arch-illager
     - minecraft

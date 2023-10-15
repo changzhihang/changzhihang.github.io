@@ -4,7 +4,7 @@ sidebar: right
 subheadline: "Minecraft Dungeons: the rise of the Arch-Illager"
 title:  "引言 PROLOGUE"
 teaser: "Translated by Zhihang"
-breadcrumb: true
+breadcrumb: false
 categories:
     - the-arch-illager
     - minecraft
