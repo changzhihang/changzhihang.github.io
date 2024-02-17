@@ -1,5 +1,21 @@
-# PROLOGUE
-
+---
+layout: page
+sidebar: right
+subheadline: "Minecraft Dungeons: the rise of the Arch-Illager"
+title:  "PROLOGUE - English"
+teaser: "Translated by Zhihang"
+breadcrumb: false
+categories:
+    - the-arch-illager
+    - minecraft
+tags:
+    - the-arch-illager
+    - minecraft
+image:
+    thumb: the-arch-illager-thumb.jpg
+    title: the-arch-illager-title.jpg
+    homepage: the-arch-illager-home.jpg
+---
 “Karl wasn’t sure why a bunch of undead mobs had decided to attack the raiding party of Illagers who’d been roaming through the lands outside of the village he’d adopted, but he didn’t question his good fortune. He’d been spoiling for a fight all week. Now, on this otherwise dreary and rainy day, he finally had one on his hands.
 A smarter hero might have found a comfortable place to sit—any clear stretch of grass or even a convenient tree stump would do—and might have watched the entire battle unfold in the clearing below the hill on which he stood. It would have been easy to just let the two sides fight it out, wasting all their energy on each other. In the end, there might only have been a few foes left over to take care of, or maybe just to run off.”
 
