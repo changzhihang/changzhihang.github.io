@@ -3,7 +3,7 @@ layout: page
 sidebar: right
 subheadline: "Minecraft Dungeons: the rise of the Arch-Illager"
 title:  "PROLOGUE - English"
-teaser: "Translated by Zhihang"
+teaser: "Quoted by Zhihang"
 breadcrumb: false
 categories:
     - the-arch-illager
