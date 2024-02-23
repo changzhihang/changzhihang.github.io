@@ -6,15 +6,15 @@ title:  "第三章 CHAPTER THREE"
 teaser: "Translated by Zhihang"
 breadcrumb: false
 categories:
-	- the-arch-illager
-	- minecraft
+    - the-arch-illager
+    - minecraft
 tags:
-	- the-arch-illager
-	- minecraft
+    - the-arch-illager
+    - minecraft
 image:
-	thumb: the-arch-illager-thumb.jpg
-	title: the-arch-illager-title.jpg
-	homepage: the-arch-illager-home.jpg
+    thumb: the-arch-illager-thumb.jpg
+    title: the-arch-illager-title.jpg
+    homepage: the-arch-illager-home.jpg
 ---
 阿奇在原野上荡来荡去，被自己知道的唯一的部落给踢了出来，狂躁极了。他觉得在他的人生中，没有一个人在乎他。那些曾经容忍过他的人，也只不过是出于礼貌罢了。
 

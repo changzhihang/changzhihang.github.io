@@ -6,15 +6,15 @@ title:  "引言 PROLOGUE"
 teaser: "Translated by Zhihang"
 breadcrumb: false
 categories:
-	- the-arch-illager
-	- minecraft
+    - the-arch-illager
+    - minecraft
 tags:
-	- the-arch-illager
-	- minecraft
+    - the-arch-illager
+    - minecraft
 image:
-	thumb: the-arch-illager-thumb.jpg
-	title: the-arch-illager-title.jpg
-	homepage: the-arch-illager-home.jpg
+    thumb: the-arch-illager-thumb.jpg
+    title: the-arch-illager-title.jpg
+    homepage: the-arch-illager-home.jpg
 ---
 卡尔虽然不知道为什么亡灵军队决定去攻击盘踞在村庄外灾厄村民的巡逻队，但他也不会怀疑有好事要发生了。他过去的一周里都渴望着痛痛快快打一架。终于，在这个与以往都不同的阴雨天，卡尔有点事可干了。
 
