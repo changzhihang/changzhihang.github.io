@@ -16,7 +16,7 @@ image:
     title: the-arch-illager-title.jpg
     homepage: the-arch-illager-home.jpg
 ---
-“Archie couldn’t stand it anymore. The so-called “hero” who had taken down the rest of his raiding party strolled off, leaving him there among the ruin of the failed battle, and he hadn’t been able to do a thing to stop it. All Archie could manage was to seethe in frustration and fury.
+Archie couldn’t stand it anymore. The so-called “hero” who had taken down the rest of his raiding party strolled off, leaving him there among the ruin of the failed battle, and he hadn’t been able to do a thing to stop it. All Archie could manage was to seethe in frustration and fury.
 
 Sure, technically he could have picked up a sword and chased after the man, but what good would that have done? The only way that venture could end would be with Archie utterly defeated, and he’d had a rotten enough day already. He didn’t want to cap it off with that.
 
