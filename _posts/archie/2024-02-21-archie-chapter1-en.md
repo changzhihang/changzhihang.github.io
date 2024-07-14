@@ -20,29 +20,31 @@ Archie couldn’t stand it anymore. The so-called “hero” who had taken down 
 
 Sure, technically he could have picked up a sword and chased after the man, but what good would that have done? The only way that venture could end would be with Archie utterly defeated, and he’d had a rotten enough day already. He didn’t want to cap it off with that.
 
-Instead, Archie pushed himself to his feet and surveyed the complete disaster that surrounded him. As the runt of his band of Illagers, he was used to having bad days, but this topped them all.”
+Instead, Archie pushed himself to his feet and surveyed the complete disaster that surrounded him. As the runt of his band of Illagers, he was used to having bad days, but this topped them all.
 
-“It was awful enough that Archie had been roped into joining the patrol designated to defend the rest of the Illagers from that marauding mob of undead that had been wandering too close to their lands, but to wind up as the only survivor? He didn’t think he could return to the rest of the Illagers if he had to bring home news like that. Enough of them already hated him that they’d probably kick him out of the tribe, and if that happened, he didn’t have anywhere else to go.
+It was awful enough that Archie had been roped into joining the patrol designated to defend the rest of the Illagers from that marauding mob of undead that had been wandering too close to their lands, but to wind up as the only survivor? He didn’t think he could return to the rest of the Illagers if he had to bring home news like that. Enough of them already hated him that they’d probably kick him out of the tribe, and if that happened, he didn’t have anywhere else to go.
 
 Archie had fully expected to meet his end today at the clawing hands and teeth of a zombie or a skeleton’s arrow. The irony that he had failed at even that made him struggle to choose between laughing and crying. He decided to do both.
+
 As he stood there, racked with sobbing guffaws, someone smacked him on the back of the head.
 
-“Archie spun about, figuring the hero had changed his mind and decided to come back and finish off the job. He almost welcomed that. At least it would put his misery to a quick end.
+Archie spun about, figuring the hero had changed his mind and decided to come back and finish off the job. He almost welcomed that. At least it would put his misery to a quick end.
 
-“Instead, he found himself face-to-face with something even worse: Thord.
+Instead, he found himself face-to-face with something even worse: Thord.
 
-Thord had been Archie’s nemesis since childhood. The vicious Illager had picked on Archie relentlessly for as long back as either one of them could remember. The simple sight of Archie skulking around the dark forest in which they lived often spurred Thord to torture Archie with terrible taunts and even magical spells.”
+Thord had been Archie’s nemesis since childhood. The vicious Illager had picked on Archie relentlessly for as long back as either one of them could remember. The simple sight of Archie skulking around the dark forest in which they lived often spurred Thord to torture Archie with terrible taunts and even magical spells.
 
-“Of course, Thord usually spent whatever spare time he had plotting against someone. It didn’t take much to encourage him to ruin someone’s day. The elders in the Illagers’ woodland mansion had tried to clamp down on his tendency toward violence over the years, which perhaps explained why Archie had somehow managed to survive to this day, but they’d failed often enough that Archie flinched every time he encountered his old foe.
+Of course, Thord usually spent whatever spare time he had plotting against someone. It didn’t take much to encourage him to ruin someone’s day. The elders in the Illagers’ woodland mansion had tried to clamp down on his tendency toward violence over the years, which perhaps explained why Archie had somehow managed to survive to this day, but they’d failed often enough that Archie flinched every time he encountered his old foe.
             
 Unfortunately, he hadn’t scurried away fast enough that morning when the elders had called for volunteers to join the raiding party. Thord had pointed out Archie trying to slink off unseen and had insisted on dragging him along instead. “Just so I can keep an eye on you.”
 
 “The one bit of good news about everyone else in the raiding party being taken down was that Archie wouldn’t have to worry about Thord picking on him anymore. It might have been a small consolation, but he had clung to it.
+
 But somehow Thord had survived too.
 
 Of course.
 
-“Thord snarled at Archie and staggered over toward the smaller Illager, nearly tripping over the hem of the long, dark robes that marked him as an evoker, a dangerous Illager spellcaster. Archie could see how the hero had thought he’d taken care of the Illager. He looked more than half-dead. If he’d stayed on the ground, Archie would never have suspected he was still breathing.
+Thord snarled at Archie and staggered over toward the smaller Illager, nearly tripping over the hem of the long, dark robes that marked him as an evoker, a dangerous Illager spellcaster. Archie could see how the hero had thought he’d taken care of the Illager. He looked more than half-dead. If he’d stayed on the ground, Archie would never have suspected he was still breathing.
 
 “Don’t just stand there gawking at me,” Thord said, his voice curdled with humiliation and disgust. “Help me out!”
 
@@ -61,9 +63,10 @@ Thord didn’t seem to care a bit about how battered it was. He just grabbed the
 Archie didn’t say a word. He knew from experience that anything he did could send Thord into a fit of rage, and he didn’t want to trigger that. Not now for sure.
 
 After a long moment, Thord spoke, his voice rough and low. “So, it’s just you and me then, is it?”
-Archie nodded.”
 
-“Thord sucked at his teeth and grimaced. “You’re going to pay for this.”
+Archie nodded.
+
+Thord sucked at his teeth and grimaced. “You’re going to pay for this.”
 
 Archie’s jaw dropped. “But I didn’t have anything to do with this! I barely fought at all!”
 
@@ -79,13 +82,13 @@ Archie collapsed to the ground, unable to bear the horrors of the accusation. If
 
 “Oh, please no!” Archie gawked at Thord in dismay. “I knew this would go wrong. I just knew it! I told you!”
 
-“Thord scoffed at him. “Like mere words ever helped with anything.”
+Thord scoffed at him. “Like mere words ever helped with anything.”
 
 It pained Archie to hear a sentiment like that. As weak as he was—and as little as he knew of magic—a sword was useless to him. All he had was words.
 
 “I knew exactly what was going to happen as soon as that hero arrived, and I tried to warn you,” Archie said, trying to explain. “I wanted to save you. I wanted to save us all!”
 
-Thord snorted at Archie as if the pathetic Illager had just fallen into an outhouse and crawled out of the filth on his hands and knees. “You go ahead and try to tell that to the others. See what they have to say.” He started staggering back in the direction of the Illager mansion, deep in the nearby dark forest.”
+Thord snorted at Archie as if the pathetic Illager had just fallen into an outhouse and crawled out of the filth on his hands and knees. “You go ahead and try to tell that to the others. See what they have to say.” He started staggering back in the direction of the Illager mansion, deep in the nearby dark forest.
 
 “Wait!” Archie said as he scampered after Thord. “Why torture me? I’m no threat to you. It’s that horrible hero you should be angry at.”
 
